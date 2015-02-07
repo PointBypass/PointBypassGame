@@ -10,5 +10,3 @@ This is a List of Milestones for Point Bypass
   * Setup Enviroment (See Video [ Link Eventually ])
   * Hello World (See Video [ Link Eventually ])
 
-2. The Importer
-  * Looking at Filesystem Documentation ([Link](https://www.love2d.org/wiki/love.filesystem.getDirectoryItems))
